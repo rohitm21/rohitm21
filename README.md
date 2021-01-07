@@ -1,6 +1,8 @@
-### Hi there 👋
 # ROHIT KUMAR 
 Python | C++ | SQL | Machine Learning 
+
+### Hi there 👋
+
 
 <p align="center">
   <b><i>Let's connect!.</i></b>
@@ -23,11 +25,10 @@ Python | C++ | SQL | Machine Learning
 - 🔭 I’m currently working on Deep Learning Projects.
 - 🌱 I’m currently learning Competitive Programming.
 - 👯 I’m looking to collaborate on Open source project for Hacktoberfest
-- 💬 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rohit-kumar-mandal-b82430192/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am half Finished
--->
+
 
  <details>
 <summary>📊 Github Stats</summary>
