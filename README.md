@@ -27,7 +27,7 @@ Python | C++ | SQL | Machine Learning
 - 👯 I’m looking to collaborate on Open source project for Hacktoberfest
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rohit-kumar-mandal-b82430192/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I am half Finished
+- ⚡ Fun fact: Still learning yet better than before !
 
 
  <details>
