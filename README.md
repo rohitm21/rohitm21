@@ -22,6 +22,7 @@ Python | C++ | SQL | Machine Learning
 <-- Namaste 🙏 -->
  <--<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
  
+ 
 -  :computer: Primary coding language: C++.
 - 🔭 I’m currently working on Deep Learning Projects.
 - 🌱 I’m currently learning Competitive Programming.
@@ -30,7 +31,7 @@ Python | C++ | SQL | Machine Learning
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Still learning yet better than before !
 
-
+<br>
  <details>
 <summary>📊 Github Stats</summary>
 
