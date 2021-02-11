@@ -25,7 +25,7 @@ Python | C++ | SQL | Machine Learning
 - 🔭 I’m currently working on Deep Learning Projects.
 - 🌱 I’m currently learning Competitive Programming.
 - 👯 I’m looking to collaborate on Open source project for Hacktoberfest
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rohit-kumar-mandal-b82430192/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rohit-km)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Still learning yet better than before !
 
@@ -33,7 +33,7 @@ Python | C++ | SQL | Machine Learning
  <details>
 <summary>📊 Github Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rohitm21&show_icons=true&theme=gotham" alt="Ayushi Rawat | Stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rohitm21&show_icons=true&theme=gotham" alt="Rohit Kumar | Stats" />
 
 </details>
 
@@ -43,6 +43,6 @@ Python | C++ | SQL | Machine Learning
  
 <h3 align="center"> &nbsp;❤️&nbsp; !</h3>
 
-[linkedin]: https://www.linkedin.com/in/rohit-kumar-mandal-b82430192/
+[linkedin]: https://www.linkedin.com/in/rohit-km
 
 
