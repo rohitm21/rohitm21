@@ -1,3 +1,4 @@
+
 # ROHIT KUMAR 
 Python | C++ | SQL | Machine Learning 
 
@@ -18,8 +19,8 @@ Python | C++ | SQL | Machine Learning
 
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-<!-- Namaste 🙏 -->
- <!--<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
+<-- Namaste 🙏 -->
+ <--<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
  
 -  :computer: Primary coding language: C++.
 - 🔭 I’m currently working on Deep Learning Projects.
