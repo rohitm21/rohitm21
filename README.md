@@ -29,7 +29,7 @@ Python | C++ | SQL | Machine Learning
 - 👯 I’m looking to collaborate on Open source project for Hacktoberfest.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rohit-km)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Trying my level best to master Data Structures and Algorithms still a noob yet beleive that I would 😄 !
+- ⚡ Fun fact: Trying my level best to master Data Structures and Algorithms still a noob yet believe that I would 😄 !
 
  <details>
   <br>
