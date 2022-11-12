@@ -21,9 +21,6 @@ Python | C++ | SQL | Machine Learning
  
  
 -  :computer: Primary coding language: C++.
-- 🔭 I’m currently working on Deep Learning Projects.
-- 🌱 I’m currently learning Competitive Programming.
-- 👯 I’m looking to collaborate on Open source project for Hacktoberfest.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rohit-km)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Still Learning Yet Better than Before 😄 !
