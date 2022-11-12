@@ -1,6 +1,6 @@
 
 # ROHIT KUMAR 
-Python | C++ | SQL | Machine Learning 
+Java | C++ | Machine Learning ....
 
 ### Hi there 👋
 
